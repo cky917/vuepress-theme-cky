@@ -1,0 +1,21 @@
+{
+  "name": "vuepress-plugin-blogrss",
+  "version": "0.1.2",
+  "description": "vuepress blog rss plugin",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "fs-extra": "^5.0.0",
+    "rss": "^1.2.2"
+  },
+  "keywords": [
+    "rss",
+    "plugin",
+    "vuepress"
+  ],
+  "author": "cky917",
+  "license": "MIT"
+}

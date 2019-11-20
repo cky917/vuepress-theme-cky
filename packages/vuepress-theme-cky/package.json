@@ -1,0 +1,35 @@
+{
+  "name": "vuepress-theme-cky",
+  "version": "1.0.6",
+  "description": "一个界面清爽, 功能完善的vuepress 博客主题",
+  "main": "lib/index.js",
+  "files": [
+    "lib/"
+  ],
+  "scripts": {
+    "build": "vuepress build docs --dest docs-dist",
+    "dev": "vuepress dev docs --no-cache --temp .temp"
+  },
+  "dependencies": {
+    "@vuepress/plugin-blog": "^1.3.0",
+    "@vuepress/plugin-last-updated": "^1.1.0",
+    "@vuepress/plugin-medium-zoom": "^1.1.0",
+    "@vuepress/plugin-nprogress": "^1.1.0",
+    "@vuepress/plugin-pwa": "^1.1.0",
+    "@vuepress/plugin-search": "^1.1.0",
+    "gitalk": "^1.5.0",
+    "lodash.debounce": "^4.0.8",
+    "lodash.throttle": "^4.1.1",
+    "nprogress": "^0.2.0",
+    "remove-markdown": "^0.3.0",
+    "vue-feather-icons": "^5.0.0",
+    "vuepress-plugin-blogrss": "^0.1.2"
+  },
+  "keywords": [
+    "blog",
+    "theme",
+    "vuepress"
+  ],
+  "author": "cky917",
+  "license": "MIT"
+}
