@@ -41,7 +41,7 @@ module.exports = (pluginOptions, ctx) => {
           const url = `${pluginOptions.site_url}${page.path}`
           feed.item({
             title: page.title,
-            description: `【摘要】${page.summary || page.excerpt} <a href="${url}">阅读全文</a>`,
+            description: `【摘要】${page.summary || page.excerpt}... <a href="${url}">阅读全文</a>`,
             url,
             date: page.date,
           })
