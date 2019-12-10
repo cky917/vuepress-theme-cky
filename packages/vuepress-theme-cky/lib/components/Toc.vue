@@ -109,17 +109,16 @@ export default {
 
 <style lang="stylus" scoped>
 .toc
-  font-size .85em
   line-height 1.5
-  width: 10rem;
-  font-size: 0.75em;
+  width: 10rem
+  font-size: 12px
   z-index: 100;
   border-radius: 5px;
   transition .3s ease all
   .toc-title
     text-align: left;
     font-weight: bold;
-    font-size: 2rem;
+    font-size: 1.5rem;
     margin-bottom 20px
   .toc-box
     position: absolute;

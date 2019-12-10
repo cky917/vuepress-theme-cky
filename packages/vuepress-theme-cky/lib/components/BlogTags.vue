@@ -24,7 +24,7 @@ export default {
   margin 5rem auto
   display flex
   flex-wrap wrap
-  font-size 0.9em
+  font-size 0.9rem
   .blog-tag
     margin 5px 10px
     color: #666;

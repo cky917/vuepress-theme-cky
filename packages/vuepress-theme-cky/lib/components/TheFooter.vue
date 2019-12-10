@@ -46,8 +46,8 @@ export default {
   margin: 8rem 0 0 0;
   padding: 4rem 2rem;
   border-top: #EBF2F6 1px solid;
-  font-size: 0.8em;
-  line-height: 1.3em;
+  font-size: 0.8rem;
+  line-height: 1.3rem;
   color: #BBC7CC;
   text-align: center;
   background: #f8f8f8;

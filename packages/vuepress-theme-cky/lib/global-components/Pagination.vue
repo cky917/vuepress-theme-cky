@@ -35,11 +35,11 @@ export default {
 .my-pagination
   margin-top: 3rem
   position relative
-  font-size 0.9em
+  font-size 0.9rem
   text-align center
   color $paginationColor
-  height: 2em;
-  line-height: 2em;
+  height: 2rem;
+  line-height: 2rem;
   .pagination-link
     position absolute
     top: 0;

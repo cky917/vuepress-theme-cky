@@ -30,15 +30,15 @@ export default {
   .toc
     position absolute
     top 20px
-    left -15em
+    left -10rem
   h1.title
-    font-size: 1.5em;
+    font-size: 1.5rem;
     color: #333;
     line-height: 1.3;
     position: relative;
     font-weight: bold
   .post-content
-    font-size 0.9em
+    font-size 0.9rem
     line-height 2
     >>> img
       max-width 100%

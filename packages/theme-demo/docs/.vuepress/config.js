@@ -4,11 +4,12 @@ module.exports = {
   title: '蹦蹬儿你个蹦蹬儿',
   description: '',
   head: [
-    ['link', { rel: "shortcut icon", href: "/favicon.ico"}],
+    ['link', { rel: "shortcut icon", href: "/favicon.ico"}]
   ],
   markdown: {
     lineNumbers: true
   },
+  pwa: true,
   theme: 'cky',
   themeConfig: {
     rss: {

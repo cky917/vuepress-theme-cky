@@ -1,15 +1,13 @@
 {
-  "name": "cky-theme-demo",
+  "name": "theme-demo",
   "private": true,
   "scripts": {
     "build": "vuepress build docs",
     "dev": "vuepress dev docs"
   },
   "devDependencies": {
-    "vuepress": "^1.0.0-rc.1"
-  },
-  "dependencies": {
-    "vuepress-theme-cky": "^1.0.6"
+    "vuepress": "^1.0.0-rc.1",
+    "vuepress-theme-cky": "^1.0.8"
   },
   "keywords": [
     "blog",

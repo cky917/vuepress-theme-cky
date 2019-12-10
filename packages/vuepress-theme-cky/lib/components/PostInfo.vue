@@ -43,7 +43,7 @@ export default {
 .post-info
   display flex
   color: #666;
-  font-size 0.8em;
+  font-size 0.8rem;
   align-items: center
   flex-wrap wrap
   .load-icon

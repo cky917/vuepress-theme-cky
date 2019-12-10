@@ -43,7 +43,7 @@ export default {
   .read-more
     color $accentColor
   .post-title
-    font-size 1.5em
+    font-size 1.5rem
     line-height 1.3
   .post-summary
     font-size 0.8em
