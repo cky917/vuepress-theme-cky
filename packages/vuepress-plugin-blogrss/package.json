@@ -1,6 +1,6 @@
 {
   "name": "vuepress-plugin-blogrss",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "vuepress blog rss plugin",
   "main": "index.js",
   "files": [
