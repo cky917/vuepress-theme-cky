@@ -2,7 +2,8 @@
   "name": "root",
   "private": true,
   "scripts": {
-    "prepare": "lerna bootstrap"
+    "prepare": "lerna bootstrap",
+    "demo:dev": "lerna run --scope theme-demo dev --stream"
   },
   "devDependencies": {
     "lerna": "^3.18.5"
